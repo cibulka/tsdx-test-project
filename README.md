@@ -9,6 +9,8 @@ The error is "Cannot find module".
 
 Dependency required is from public GitHub repository [https://github.com/cibulka/tsdx-test](https://github.com/cibulka/tsdx-test). 
 
+Whether the repo is private or public, the error is the same. The error does not happen if the dependency is not built with TSDX (see `react-typed`).
+
 ## Github repo
 
 The dependency in question will be private GitHub repo (after we find what is causing the problem), so I don't require it from npm. I require it with `<user>/<repo>` from GitHub pattern as described [here](https://medium.com/@jonchurch/use-github-branch-as-dependency-in-package-json-5eb609c81f1a). 
