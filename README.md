@@ -17,6 +17,6 @@ I also require [react-typed](https://github.com/ssbeefeater/react-typed) similar
 
 ## What you should see
 
-![alt text](https://raw.githubusercontent.com/cibulka/tsdx-test-project/screenshot.png)
+![screenshot](screenshot.png)
 
 
